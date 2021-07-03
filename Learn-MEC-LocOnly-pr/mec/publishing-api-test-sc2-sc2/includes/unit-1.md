@@ -1,2 +1,3 @@
-> [!Important] 
-> This module is not available in English. The original version can be found in Japanese [here.](https://docs.microsoft.com/ja-jp/learn/mec/modules/publishing-api-test-sc2-sc2)
+
+
+Sample unit 1 content

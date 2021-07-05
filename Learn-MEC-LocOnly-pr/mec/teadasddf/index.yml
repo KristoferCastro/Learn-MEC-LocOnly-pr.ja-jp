@@ -1,0 +1,57 @@
+### YamlMime:Module
+uid: learn.mec.teadasddf
+title: Driving change towards sustainable schools
+hidden: true
+metadata:
+  title: Driving change towards sustainable schools
+  ms.date: 07/04/2021
+  author: Microsoft and WWF
+  ms.author: abdewees
+  ms.topic: interactive-tutorial
+  ms.prod: office-365
+  ms.custom:
+    - Student centered learning
+  description: >-
+    Driving Change Towards Sustainable Schools, which forms part of WWF's.
+
+    Education for a Sustainable Planet learning path, aims to help you further your understanding of sustainability and equip you with relevant information, tools, activities and good ideas from other skilled practitioners to make Education for Sustainable Development a cornerstone of your teaching practice. 
+abstract: >
+  このモジュールでは、次のことについて学習します。 
+   - Preview
+
+  [ISTE Standards for Educators](https://www.iste.org/standards/iste-standards-for-teachers):
+
+  - Educator -Collaborator
+
+  - Leaders - Empowering Leader
+
+  - Leaders - Visionary Planner
+
+
+  [UNESCO Standards for Educators](https://www.oercommons.org/hubs/UNESCO):
+
+  - Organization and Administration
+
+  - Pedagogy
+
+  - Teacher Professional Learning
+summary: >-
+  Driving Change Towards Sustainable Schools, which forms part of WWF's.
+
+  Education for a Sustainable Planet learning path, aims to help you further your understanding of sustainability and equip you with relevant information, tools, activities and good ideas from other skilled practitioners to make Education for Sustainable Development a cornerstone of your teaching practice. 
+prerequisites: |
+  なし
+iconUrl: /learn/achievements/teadasddf.png
+levels:
+  - intermediate
+products:
+  - office-365
+roles:
+  - k-12-educator
+  - school-leader
+units:
+  - learn.mec.teadasddf.overview
+  - learn.mec.teadasddf.quiz
+  - learn.mec.teadasddf.summary
+badge:
+  uid: learn.mec.teadasddf.badge

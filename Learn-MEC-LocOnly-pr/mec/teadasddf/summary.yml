@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.teadasddf.summary
+title: Summary
+metadata:
+  title: Summary
+  description: Summary
+  ms.date: 07/04/2021
+  author: Microsoft and WWF
+  ms.author: abdewees
+  ms.topic: interactive-tutorial
+  ms.prod: office-365
+durationInMinutes: 1
+content: "[!include[](includes/summary.md)]"

@@ -1,0 +1,47 @@
+### YamlMime:Module
+uid: learn.mec.kris-demo-5481d3eb
+title: 教員向け『21世紀の学習活動デザイン』④ 知識構築
+hidden: true
+metadata:
+  title: 教員向け『21世紀の学習活動デザイン』④ 知識構築
+  ms.date: 07/04/2021
+  author: mec-sa
+  ms.author: abdewees
+  ms.topic: interactive-tutorial
+  ms.prod: office-365
+  ms.custom:
+    - Student centered learning
+  description: >
+    生徒たちは、知識を構成し活用することを求められているでしょうか？その知識は教科横断的でしょうか。知識構築の活動は、生徒にとって「新しい」ものの理解やアイデアを生み出すことを求めます。生徒は主体的に解釈、分析、統合または評価することを通じてスキルを習得することができます。。より高い次元の活動では、知識構築が学習活動の主な要件である。
+abstract: >
+  このモジュールでは、次のことについて学習します。 
+   - How to apply knowledge in a new context？　新しい文脈で知識を構築する方法は？
+  - How to design lessons, so that the main requirement is knowledge construction
+    ? 知識構築が主な要件となるようにレッスンを設計する方法は？
+  - What does knowledge construction mean? 知識構築とはどういう意味ですか？
+
+  - What are the big ideas in knowledge construction ? 知識構築の大きなアイデアは何ですか？
+summary: >
+  生徒たちは、知識を構成し活用することを求められているでしょうか？その知識は教科横断的でしょうか。知識構築の活動は、生徒にとって「新しい」ものの理解やアイデアを生み出すことを求めます。生徒は主体的に解釈、分析、統合または評価することを通じてスキルを習得することができます。。より高い次元の活動では、知識構築が学習活動の主な要件である。
+prerequisites: |
+  なし
+iconUrl: /learn/achievements/kris-demo-5481d3eb.png
+levels:
+  - beginner
+products:
+  - office-365
+roles:
+  - k-12-educator
+  - school-leader
+units:
+  - learn.mec.kris-demo-5481d3eb.introduction
+  - learn.mec.kris-demo-5481d3eb.kris-unique-module-2
+  - learn.mec.kris-demo-5481d3eb.kris-unique-module-3
+  - learn.mec.kris-demo-5481d3eb.kris-unique-module-4
+  - learn.mec.kris-demo-5481d3eb.kris-unique-module-5
+  - learn.mec.kris-demo-5481d3eb.kris-unique-module-6
+  - learn.mec.kris-demo-5481d3eb.kris-unique-module-7
+  - learn.mec.kris-demo-5481d3eb.knowledge-check
+  - learn.mec.kris-demo-5481d3eb.summary
+badge:
+  uid: learn.mec.kris-demo-5481d3eb.badge

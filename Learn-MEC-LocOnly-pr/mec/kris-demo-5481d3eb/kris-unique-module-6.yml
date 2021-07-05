@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.kris-demo-5481d3eb.kris-unique-module-6
+title: 『 知識構築 』 事例紹介ビデオ
+metadata:
+  title: 『 知識構築 』 事例紹介ビデオ
+  description: 『 知識構築 』 事例紹介ビデオ
+  ms.date: 07/04/2021
+  author: mec-sa
+  ms.author: abdewees
+  ms.topic: interactive-tutorial
+  ms.prod: office-365
+durationInMinutes: 1
+content: "[!include[](includes/kris-unique-module-6.md)]"

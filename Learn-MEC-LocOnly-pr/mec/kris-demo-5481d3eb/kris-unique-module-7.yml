@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.kris-demo-5481d3eb.kris-unique-module-7
+title: 教室における『 知識構築 』 の計画
+metadata:
+  title: 教室における『 知識構築 』 の計画
+  description: 教室における『 知識構築 』 の計画
+  ms.date: 07/04/2021
+  author: mec-sa
+  ms.author: abdewees
+  ms.topic: interactive-tutorial
+  ms.prod: office-365
+durationInMinutes: 1
+content: "[!include[](includes/kris-unique-module-7.md)]"

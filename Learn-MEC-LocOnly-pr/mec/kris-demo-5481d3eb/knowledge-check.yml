@@ -1,0 +1,117 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.kris-demo-5481d3eb.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: Review on what you've learned
+  ms.date: 07/04/2021
+  author: mec-sa
+  ms.author: abdewees
+  ms.topic: interactive-tutorial
+  ms.prod: office-365
+durationInMinutes: 1
+quiz:
+  title: Knowledge check
+  questions:
+    - content: 次のステートメントのうち、知識構築の意味を最もよく表しているのはどれですか？
+      choices:
+        - content: 知識構築活動では、生徒は自分にとって新しいアイデアや理解を生み出す必要があります
+          isCorrect: true
+          explanation: "1"
+        - content: 知識構築活動では、生徒は新しい方法で情報を使用する必要があります
+          isCorrect: false
+          explanation: "2"
+        - content: 知識構築活動には、複数の情報源を使用して新しい知識を作成することが含まれます
+          isCorrect: false
+          explanation: "3"
+        - content: 知識構築活動では、生徒が協力して、学んだことを新しい方法で発表します。
+          isCorrect: false
+          explanation: "4"
+        - content: 知識構築活動には、生徒が学んだことを新しい方法で提示することが含まれます。
+          isCorrect: false
+          explanation: "5"
+    - content: 次のアクティビティについて考えてみます。生徒は自分の地域の気候データを分析してから、選択した2番目の場所の気候データを分析します。
+        生徒は自分の知識を応用する必要がありますか？
+      choices:
+        - content: はい、生徒はさまざまなソースからのデータを分析しているためです。
+          isCorrect: false
+          explanation: "6"
+        - content: はい、生徒たちは学んだことを新しいシナリオに適用しているからです。
+          isCorrect: false
+          explanation: "7"
+        - content: いいえ、生徒は気候データの分析から得た知識を新しい活動に適用しないためです。 異なるデータセットで同じアクティビティを繰り返すだけです
+          isCorrect: true
+          explanation: "8"
+        - content: はい、複数のソースからのデータを使用しているためです。
+          isCorrect: false
+          explanation: "9"
+        - content: いいえ、2番目の場所を自分で選択できるためです。
+          isCorrect: false
+          explanation: "10"
+    - content: 主な目的が知識構築であるが、学習活動では生徒が新しい文脈で知識を適用する必要がない活動では、21CLD
+        の知識構築ルーブリックではどの段階に分類されますか。
+      choices:
+        - content: コード１
+          isCorrect: false
+          explanation: "11"
+        - content: コード２
+          isCorrect: false
+          explanation: "12"
+        - content: コード３
+          isCorrect: true
+          explanation: "13"
+        - content: コード４
+          isCorrect: false
+          explanation: "14"
+    - content: 次の活動のうち、知識構築と見なすことができるのはどれですか？
+      choices:
+        - content: 生徒はキャラクターが犯した犯罪を説明する論文を書きます
+          isCorrect: false
+          explanation: "15"
+        - content: 生徒は物語の詳細を使用して、犯された犯罪を脚色します
+          isCorrect: false
+          explanation: "16"
+        - content: 生徒はBingを使用して、環境に役立つ地域の活動に関する情報をインターネットで検索し、見つけたものを説明するプレゼンテーションを行います。
+          isCorrect: false
+          explanation: "17"
+        - content: 生徒は、複数の情報源からの情報を比較対照する論文を書きます
+          isCorrect: true
+          explanation: "18"
+        - content: 生徒は、オンラインまたは本で見つけた情報を説明する論文を書きます
+          isCorrect: false
+          explanation: "19"
+    - content: 学習活動が知識構築の観点から段階３に分類されている場合、これは学習活動で次のことを示しています。
+      choices:
+        - content: 学習活動の主な目的は知識の構築であり、学習活動では生徒が新しい文脈で知識を適用する必要があります
+          isCorrect: false
+          explanation: "20"
+        - content: 学習活動の主な目的は知識の構築ですが、学習活動では、生徒が新しい文脈で知識を適用する必要はありません。
+          isCorrect: true
+          explanation: "21"
+        - content: 学習活動では、生徒は情報を解釈、分析、合成、または評価することによって知識を構築する必要があります
+          isCorrect: false
+          explanation: "22"
+        - content: 学習活動の主な目的は知識の構築であり、学習活動では生徒が新しい文脈で知識を適用する必要があります
+          isCorrect: false
+          explanation: "23"
+        - content: 学習活動では、生徒は情報を解釈、分析、合成、または評価することによって知識を構築する必要がありますが、活動の主な目的は知識の構築ではありません
+          isCorrect: false
+          explanation: "24"
+    - content: 次のアクティビティを検討してください。生徒は、学校で水道水の水質をテストするための手順を設計して実行します。
+        彼らは水をテストし、正確なデータが得られるまで手順を繰り返し再設計します。 学生は知識を応用する必要がありますか：
+      choices:
+        - content: はい、生徒は一緒に働いており、責任を共有しているためです
+          isCorrect: false
+          explanation: "25"
+        - content: はい、生徒は以前の試験からの知識を適用して手順を改善しているためです
+          isCorrect: false
+          explanation: "27"
+        - content: はい、生徒が一緒にテスト手順を再設計しているためです
+          isCorrect: false
+          explanation: "28"
+        - content: いいえ、1か所の水サンプルしか使用していないためです
+          isCorrect: false
+          explanation: "29"
+        - content: いいえ、彼らは知識を新しいタイプのアプリケーションに拡張していないためです
+          isCorrect: true
+          explanation: "30"

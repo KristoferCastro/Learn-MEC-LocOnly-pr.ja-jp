@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.kris-demo-5481d3eb.kris-unique-module-4
+title: 『 知識構築 』のルーブリックを理解しよう
+metadata:
+  title: 『 知識構築 』のルーブリックを理解しよう
+  description: 『 知識構築 』のルーブリックを理解しよう
+  ms.date: 07/04/2021
+  author: mec-sa
+  ms.author: abdewees
+  ms.topic: interactive-tutorial
+  ms.prod: office-365
+durationInMinutes: 1
+content: "[!include[](includes/kris-unique-module-4.md)]"

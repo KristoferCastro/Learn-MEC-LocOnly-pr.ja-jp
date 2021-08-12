@@ -1,0 +1,33 @@
+### YamlMime:Module
+uid: learn.mec.publishing-api-test-sc2
+title: "[KERMIT] PUBLISHING API TEST [SCENARIO 2]"
+metadata:
+  title: "[KERMIT] PUBLISHING API TEST [SCENARIO 2]"
+  ms.date: 08/11/2021
+  author: mec-sa
+  ms.author: abdewees
+  ms.topic: interactive-tutorial
+  ms.prod: office-365
+  ms.custom:
+    - Student centered learning
+  description: ""
+abstract: |
+  このモジュールでは、次のことについて学習します。 
+   - Sample learning objective 1
+summary: ""
+prerequisites: |
+  なし
+iconUrl: /learn/achievements/publishing-api-test-sc2.svg
+levels:
+  - intermediate
+products:
+  - azure
+roles:
+  - k-12-educator
+units:
+  - learn.mec.publishing-api-test-sc2.introduction
+  - learn.mec.publishing-api-test-sc2.unit-1
+  - learn.mec.publishing-api-test-sc2.knowledge-check
+  - learn.mec.publishing-api-test-sc2.summary
+badge:
+  uid: learn.mec.publishing-api-test-sc2.badge
